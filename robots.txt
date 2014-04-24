@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://maugsbur.github.io/open_knowledge_blog/sitemap.xml 

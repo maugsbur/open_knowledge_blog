@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://maugsbur.github.io/open_knowledge_blog/atom.xml" rel="self"/>
+  <link href="http://maugsbur.github.io/open_knowledge_blog/"/>
+  <updated>2014-04-24T02:03:11-03:00</updated>
+  <id>http://maugsbur.github.io/open_knowledge_blog/</id>
+  <author>
+    <name><![CDATA[Marcel Augsburger]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
