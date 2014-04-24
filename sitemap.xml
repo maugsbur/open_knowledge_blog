@@ -1,8 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://maugsbur.github.io/open_knowledge_blog/blog/2014/04/24/a2k-genealogy/</loc>
+        <lastmod>2014-04-24T03:31:42-03:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://maugsbur.github.io/open_knowledge_blog/blog/2014/04/24/el-copyright-instrumento-de-expropiacion-y-resistencia/
+        </loc>
+        <lastmod>2014-04-24T03:42:09-03:00</lastmod>
+    </url>
+    <url>
         <loc>http://maugsbur.github.io/open_knowledge_blog/</loc>
-        <lastmod>2014-04-24T01:58:41-03:00</lastmod>
+        <lastmod>2014-04-24T03:42:09-03:00</lastmod>
     </url>
     <url>
         <loc>http://maugsbur.github.io/open_knowledge_blog/robots.txt</loc>
@@ -10,6 +20,6 @@
     </url>
     <url>
         <loc>http://maugsbur.github.io/open_knowledge_blog/blog/archives/</loc>
-        <lastmod>2014-04-24T01:58:41-03:00</lastmod>
+        <lastmod>2014-04-24T03:42:09-03:00</lastmod>
     </url>
 </urlset>
